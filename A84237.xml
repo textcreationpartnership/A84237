@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding happy newes from Oxford declaring, the proceedings of the Lord Sey against the cavaleers, and how he beat Sir Iohn Biron, and the rest out of their trenches, with the losse of three of four men, and hath now placed a strong garrison in the city, so that there is not a cavaleer left therein, or thereabouts. Likewise an exact relation of a remarkable battell, fought by Sir John Hotham against the Earles of Cumberland and Newcastle, neer Beverley in Yorkshire, Septem. 14. and how he defeated the whole army, killing many of them, and so obtained a glorious and joyfull victory. Likewise true intelligence from Westchester, declaring the Kings Majesties resolution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84237</idno>
+            <idno type="STC">Wing E3741</idno>
+            <idno type="STC">Thomason E118_1</idno>
+            <idno type="STC">ESTC R19284</idno>
+            <idno type="EEBO-CITATION">99860631</idno>
+            <idno type="PROQUEST">99860631</idno>
+            <idno type="VID">156079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84237)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156079)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding happy newes from Oxford declaring, the proceedings of the Lord Sey against the cavaleers, and how he beat Sir Iohn Biron, and the rest out of their trenches, with the losse of three of four men, and hath now placed a strong garrison in the city, so that there is not a cavaleer left therein, or thereabouts. Likewise an exact relation of a remarkable battell, fought by Sir John Hotham against the Earles of Cumberland and Newcastle, neer Beverley in Yorkshire, Septem. 14. and how he defeated the whole army, killing many of them, and so obtained a glorious and joyfull victory. Likewise true intelligence from Westchester, declaring the Kings Majesties resolution.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Sept. 17. Printed for John Wight [sic], by Authority,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Place of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saye and Sele, William Fiennes, --  Viscount, 1582-1662.</term>
+               <term>Byron, John Byron, --  Baron, 1598 or 9-1652.</term>
+               <term>Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1900.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156079:1"/>
+            <pb facs="tcp:156079:1" rendition="simple:additions"/>
+            <p>EXCEEDING HAPPY NEWES <hi>FROM</hi> OXFORD DECLARING, The Proceedings of the Lord <hi>Sey</hi> againſt the Ca<g ref="char:EOLhyphen"/>valeers, and how he beat Sir <hi>Iohn Biron,</hi> and the reſt out of their Trenches, with the loſſe of three or four men, and hath now placed a ſtrong Garriſon in the City, ſo that there is not a Cavaleer left therein, or thereabouts.</p>
+            <p>Likewiſe an exact Relation of a Remarkable bat<g ref="char:EOLhyphen"/>tell, fought by Sir John Hotham againſt the Earles of <hi>Cumberland</hi> and <hi>Newcaſtle,</hi> neer <hi>Beverley</hi> in <hi>Yorkshire, Septem.</hi> 14. and how he defeated the whole Army, killing many of them, and ſo obtained a Glo<g ref="char:EOLhyphen"/>rious and joyfull Victory.</p>
+            <p>Likewiſe true intelligence from Weſtcheſter, de<g ref="char:EOLhyphen"/>claring the Kings Majeſties Reſolution.</p>
+            <p>
+               <hi>Sep.</hi> 17. Printed for John Wight, by Authority.</p>
+         </div>
+      </front>
+      <body>
+         <div type="military_report_from_Oxford">
+            <pb facs="tcp:156079:2"/>
+            <pb facs="tcp:156079:2"/>
+            <head>Exceeding happy Newes from the City of <hi>OXFORD.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N the fourteenth of this inſtant month, Letters came from <hi>Oxford,</hi> to many worthy and emi<g ref="char:EOLhyphen"/>nent Perſons Reſident in this City, Declaring the Proceedings of the Right Honourable, the Lord <hi>SEY</hi> in thoſe Parts, againſt the Cava<g ref="char:EOLhyphen"/>leers, ſince his firſt comming thither, and that hee hath done great ſervice for the Honourable Court of <hi>PARLIAMENT</hi> neer Oxford, by defeating ſome of the Cavaleeres Troops, and Relieving thoſe that were ſore oppreſſed by the ſaid Rebels.</p>
+            <p>For at the firſt comming of the Cavaleers to that City, they committed many Out-rages againſt the well-affected Party, plundering their Houſes, and taking all that they had from them by violence, the Vice-Chancellour, Maſters, and Schollers of the Colledges ſiding with them.</p>
+            <pb facs="tcp:156079:3"/>
+            <p> But when Sir <hi>Iohn Byron</hi> and the reſt of the Ca<g ref="char:EOLhyphen"/>valeers had information that the Parliament Forces were comming, and that they had ſet down their Reſolutions to fight it out to the laſt man, they marched out of the Town with all expedition, and are now gore towards his Majeſty.</p>
+            <p>Likewiſe two hundred ſouldiers more, immedi<g ref="char:EOLhyphen"/>ately followed them, not daring to withſtand the Lord <hi>SEY,</hi> whoſe appearance neer <hi>OXFORD,</hi> made divers of the Malignant party to flye, and are now likewiſe gone towards his Majeſty.</p>
+            <p>But it is thought that they were met withall by ſome of the Parliament Forces in other Counties, and are now in ſafe cuſtody.</p>
+            <p>Yet Sir <hi>RICHARD CAVE</hi> ſtayed in the town and skirmiſhed ſome certain while with the Par<g ref="char:EOLhyphen"/>liament Force, and after the ſpace of two hours, they ſounded a Retreat, and betook themſelves to flight, leaving many of their men ſlain and wounded, and through Gods aſſiſtance, they having obtained this joyfull and happy Victory, our men marched into the Town with ſixe hundred ſouldiers, together with two Pieces of Ordnance, and were kindly re<g ref="char:EOLhyphen"/>ceived by the Townſmen.</p>
+            <p>Thus hath that worthy Member of the Honou<g ref="char:EOLhyphen"/>rable Houſe of Peers, the Lord <hi>SEY,</hi> defeated the Cavaleers at <hi>OXFORD,</hi> having now ſtrongly For<g ref="char:EOLhyphen"/>tified the Town, ſo that it now ſtands firme and ſure for the King and Parliament, and hath now cleered the whole County of all ſuch Rogues, who formerly was a great Burthen and Oppreſſion to the County.</p>
+            <pb facs="tcp:156079:3"/>
+            <p> By Letters from <hi>WESTCHESTER,</hi> it is decla<g ref="char:EOLhyphen"/>red and ſignified, That upon the fourteenth of this inſtant mouth, three hundred of the Welch-men that were billeted at the ſaid City, began to through Fire-works therein, thinking to fire the ſame, by Reaſon that the Major would not cordiſcend to their Demand; which was to have the City reſig<g ref="char:EOLhyphen"/>ned up to them.</p>
+            <p>But before that they could bring their Deſignes to perfection, the Trayned Band of that County came in againſt them, and threatned to kill every man, if that they perſiſted in their former Courſes and wayes.</p>
+            <p>Whereupon the VVelchmen began to leave the Town, and retreated back, and as it is ſuppoſed, are gone towards Lancaſhire to the Lord <hi>Strange.</hi>
+            </p>
+            <p>The Town ſtands well-affed to the King and Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>Vpon Tueſday laſt, Letters came to the Honou<g ref="char:EOLhyphen"/>rable Houſe of Commons, intimating, That the King is gone from Nottingham to Derby, and that it was conceived hee is reſolved to take his Journey from thence towards Weſtcheſter <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that the Ca<g ref="char:EOLhyphen"/>valeers are Reſolved to go all thither, but what their intentions be, are not yet known.</p>
+         </div>
+         <div type="report_of_battle">
+            <pb facs="tcp:156079:4"/>
+            <head>An exact Relation of a Remarkeable fought by that Worthy Champion, Sir John Ho<g ref="char:EOLhyphen"/>tham, againſt the Earles of Cumberland and Newcaſtle, neere Beverley in Yorkeſhire, <date>Septem. 13.</date>
+            </head>
+            <p>VPon the 12. of this month, Sir <hi>John Hotham</hi> received information, from <hi>Beverley,</hi> that the Earl of <hi>Cumber<g ref="char:EOLhyphen"/>land,</hi> together with the Earl of <hi>New-castle,</hi> had ſent five troops of Horſe thither, to keepe the town in awe, and to impriſon all thoſe that ſtood ill-affected to the King, and that they were reſolved to ſend ſome foot-forces, with ſome pieces of Ord<g ref="char:EOLhyphen"/>nance likewiſe, very ſuddenly, for the bet<g ref="char:EOLhyphen"/>ter ſecuring of the ſame.</p>
+            <p>Whereupon Sir <hi>John</hi> having received theſe tydings, he reſolved the next day be<g ref="char:EOLhyphen"/>ing the 13. of this month, to go himſelfe in perſon with 500. Foot, and 100. Horſe towards <hi>Beverley,</hi> which was done accor<g ref="char:EOLhyphen"/>dingly, and comming within two miles
+<pb facs="tcp:156079:4"/>of the town, there was a Gentleman came from towards <hi>Beverley,</hi> certifying unto him, that the Earls of <hi>Cumberland</hi> and <hi>New<g ref="char:EOLunhyphen"/>caſtle,</hi> was within 7. miles of the ſaid town and was reſolved to advance their Forces a<g ref="char:EOLhyphen"/>gainſt him.</p>
+            <p>But Sir <hi>John</hi> and his followers, hearing of theſe tydings, took much courage ther<g ref="char:EOLhyphen"/>at, and marched with ſpeed towards <hi>Be<g ref="char:EOLhyphen"/>verley,</hi> and comming thither aſſaulted the ſame, diſcharging againſt the Cavaleers ve<g ref="char:EOLhyphen"/>ry furiouſly, continuing in a hot skirmiſh till towards the Evening, where the For<g ref="char:EOLhyphen"/>ces that were within the town, ſounded a Parley, and treating ſome while with Sir <hi>John,</hi> they deſired, that the Battle might be referred till the next day, but he would not condiſcend thereto, and therupon they fell too't, and about 9. of the clock at night the Earl of Cumberlands Forces aſſaulted Sir <hi>John Hothams;</hi> inſomuch, that he was very dangerouſly beſet, his own perſon be<g ref="char:EOLhyphen"/>ing in great hazzard; but by the Wiſdom and Policy of him, he defeated their whole Army, and forced the Cavaleers to leave the town.</p>
+            <pb facs="tcp:156079:5"/>
+            <p> For when they were in the middeſt of the Battle Sir <hi>John</hi> cauſed Captain <hi>Tur<g ref="char:EOLhyphen"/>vill</hi> to draw out 100. Foot to charge the Enemy on the Reer, which he performed with much care and fidelity, and charged three of the Earl of <hi>Cumberlands</hi> Forces in a very deſperate manner, kil'd ſeven, and loſt two of his own men, then Sir <hi>John</hi> came up, and charged four troopes more, and killed 14. of them, two of them being Commanders of great note, and very able Souldiers, immediatly after, Captain <hi>Tur<g ref="char:EOLhyphen"/>vill</hi> having wheeled a little about with great reſolution gave a ſecond Charge, ſhot divers, and took Colonel <hi>Gibſon</hi> priſoner. Thus hath Sir <hi>John Hotham</hi> with 600. men defeated the whole Army of Cavaleers, but by reaſon it was dark could not purſue them.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
